@@ -2,4 +2,4 @@
 
 By Taryn jones, Intro Coding for Journalists class
 
-This repo is a mastery class assignment to learn HTML. It is due [02] [02], [2024].
+This repo is a mastery class assignment to learn CSS. It is due [02] [08], [2024].
